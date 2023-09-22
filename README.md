@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# React + TypeScript + Tailwindcss + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Styles under Tailwindcss.
 
 Currently, two official plugins are available:
 
